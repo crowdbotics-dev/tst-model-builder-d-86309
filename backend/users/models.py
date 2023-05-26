@@ -15,7 +15,7 @@ class User(AbstractUser):
 
 
     This model represents the User instance of the system, login system and
-    everything that relates with an `User` is represented by this model.
+    everything that relates with an `User` is represented by this model...
     """
 
     # First Name and Last Name do not cover name patterns
